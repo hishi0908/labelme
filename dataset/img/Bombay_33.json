@@ -1,0 +1,28 @@
+{
+  "version": "5.5.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "cat",
+      "points": [
+        [
+          31.0,
+          129.0
+        ],
+        [
+          322.0,
+          312.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "mask",
+      "flags": {},
+      "mask": "iVBORw0KGgoAAAANSUhEUgAAASQAAAC4CAAAAABvQc68AAAEcklEQVR4nO2d27KjIBBFwZr//2Xn4RiDpoFNc9Nmr4fUTJ0AsrIbjYnGOxLDO+d255zbJm/Ig/HnAyXF8N9/UlKEwJH7N20rRuCdO5YVVUvxP5OQtkE1s1jH5Z19N2l3syXlRq9TdZ2pruVkSejIalHhAGWd3FvOkVQ8qsbUZZCSDn4aTli4Na/LeVynHrSm9fhDAHV2fVXq8ca/zxxcbvXD4Ym4jwW2vDUbviY1Gkw3W7CdpHZgudWVS4OONM0Gv8FtmVmlJqCV+JRR5dZhnFz1aA7k5RIdlKQer0WmT00mIn8ekqR+g6SSIY9a2GJYkjq+EM12BkkGSOo7j1JNiadH/9T9lRjxUsslFBs5VnDxhb53kh645snPTiWycy107T1EiEd68B3auB3oqZKR73mKLRX02rPcxr4v7DhaR0mjz+f1G6/bSbcJpzx9m48PfuklaeJp4famOkma+SGMb+6pz5o0+9O8xuN3kTTbUet93YRzGG+i23GSIUcH/FYJQHtJpoL0NxkmCaC5JFNBOmCS0nT5zqS5IHnXXJI5R845llse31qSzSC1lWTTkWe5IbSUZDNIjgs3RMNX32yQmCSEdpLsBolJQmgmyXCQmCSAvZUky0FikhAaSTIdJCYpz95Iku0gtZFk3BHLLctOSRAtJJmutsHXu72XBpJMB8k5xyTlaHSVkukgjbm2xASUlOL4Fm+1JMvV9vmmM5MEQElxzq/M11aL3WoLripgkgAqJS0RJCYpwuUSHkoSuV7mVCfJarXdLgVjkgCqJC0SpCpJqziqkbSMI65JPwjX7+olWQ2SgFrSQo7UklZypJW0lCOlpLUc6SQt5kglaTVHGknLOVJIWs9R8V1vFlRUKmlJRWWSFlVUImlZRbikhRWhezfknk2dbjr3BJCEwIZMxE11V8+SEFmwpDjpVlZoRksuvXBbSEYDkkkqd/T+KEkziHuADV27fXv4JEnRJCkdmURekwrisIAjQVJRvayg6EdJ4YpStsq9gvya1MCRRcJyK83AKo5CSYxRjLPcSm/OHHVkUN4nSYxRgiNJdJTCB48oml+fewvi3Pz5UNeP2O/7SPx0FT4j/c83v4HU73Whc9GtRK8xFZ8eKqnbUv0Mh+npeWAz5+3L+htEF9jMljxsd1/tTTGfjKSHGcqQ+9k7fb+Jnt+lqB+pDwLo6CD+kRIVncQkUVFApNzoKESWREcXeJUSgCiJQbrCJAFIkhikG0wSACUBCJJYbXeYJABKAqAkgO0Z55ifDZMEQEkAlARASQCUBLDx+DoPkwQgSOKR0x0mCYCSACgJQJLERekGkwRASQAbz9bmEZPERenKxhP/eTZHS1nkhZv1dmFzjlHKwUMAgD9JP1FivYUwSQCHJK5KKZgkgJgkLkoBH0mstwQsNwBKAjgl3euNi9IXJgmAkgC+krh/i8IkAVASQCCJ9RaDSQIIJTFKEZgkgIskRkmGSQK4SmKURJgkgJsk8zdpV3FPEt0ICKeNvHOUlaf07qXW+Q/m3n61ej7FDAAAAABJRU5ErkJggg=="
+    }
+  ],
+  "imagePath": "Bombay_33.jpg",
+  "imageData": null,
+  "imageHeight": 397,
+  "imageWidth": 384
+}

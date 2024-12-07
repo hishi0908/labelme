@@ -1,0 +1,28 @@
+{
+  "version": "5.5.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "cat",
+      "points": [
+        [
+          117.0,
+          41.0
+        ],
+        [
+          348.0,
+          329.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "mask",
+      "flags": {},
+      "mask": "iVBORw0KGgoAAAANSUhEUgAAAOgAAAEhCAAAAABQUrNsAAAFh0lEQVR4nO2d0XqjIBCFh3x9/1d2L5pso4IinGHODPwX3bTb6vw5gGgkScJGEhHZdDbLxKcgtOoLvD1a2BL9qgebKXGi2AyIRbGmzKJQqEWRkVKLIk25RYGm5KI4U3ZRGPSiqT/TJCLy070ZatLn6+ZANDVPBlPhMQP5eppM08V39pTqeax63JAX0TfVvqftOBOVOtfMVvyJyr1rZiMbmWh9OWXZ7Db8iorkZUvDtoPjaJnzBcPyE+VaVER+pz1/D69+jQmlcjYHk3oEm0wiKrJEjdDpopsIm6giVKKKgTIdR3WPdDTHUbVC3rMJikRHPNsWosniZGLwDsf3lM88eGiilgPCQFHbcW+YqPXwPmb/dpb/T8sHJGqd5S/qVdhq/l1n0U2UI0wRUS2FwPLrwplaNQSauwuESk2XQXOPRkUslrsrvgon3iyee/CiNJ77FyzQfZRG8wjVNSNNwKK0gWKbLq8mNlEuz8OLp0BRLs8jsKbLrQkTZdcEifJrQkQ9aHZXySt5vGOlI1FeyRytor4spVXUnWaTqENLaajaiebp7rmHiTrRzPBE1K+lPCneleb5vs/aRF1p5qgScGeZuZG3IlF3mlnuT7wdetbfmV3735xkb7e/aLouJYuUm65bz/z6iVKibjVL5IU8axYWxGSbbkBPD6u4HlFc4ERxdyeMi0Vr9MsPH3C5No99PWk9N0sQgzTd+0Wlh1HXaaAVi2f3onE996KBPee8hyFyoN+ioT2/RJ161uL9OFr9DhT/Ew0eqJ9E39Gl84/qSKcHnHS/7eOn6Ub3nHPCQEx/g3Mi2s9HFP8WxWQ4GYz6eYuG93yLxvecbzAiZ00YqplLdIKxaLJEZ2CJRsOHKOCUw4cogCUaDReiiKsCL5ljYuQiUchlHg+iEByIYq7bvSbpog4SBV2I5RcFsUSj8ZpkLOJPFPWiEL0oiiVKAuzlTHJR3Mu2r0kGXfJEga/Dc4sCWaLRoBZF3ipDLYpkiRIAvcmLWRTKEo3GEo0GsSj2zlpiUSxLNBpLNBpL1Bzwug1eUTBLNBq0ouilVbSiaJZoNOYRDb+e8s08iVoXMIolGo0lGo0X63p99E0kEyU6Cbyi4Lb7muBNNUSEOVEwS9QebCd9ySSdlDhRbKTMolCWaDSoRZGdlFoUyVyitAdSYNudK9EZIBfFtV1yURy/orSjEQ72RGFtl10UxhKNBr0oqpPSi6J4ixIfX0CRzpYoM5hIHYhi8CAKidSDKITpRImPLximS5QaxGjkQhTBEqUC0HZ9iAJYolysjyqqZj5R8jlgd9udL9HoLFE2ejupG9FeligdnW3Xj2gnjkT7InUk2ocn0a5IPYl2sUQZ6Wm7rkR7TH2JduBMtD1SZ6LtpMwjKzaR+zJaL/nwJLptf/8oXMBiSfSoVq6m8UkgSfRUfVmnMRAK0e1RSm2mDKJZzQv3JlPzPtrTRp80BGPRm1Jva6pXZWi6ZW496tOxFe0/XlabmoreewI/2Aa2JR1CfFRRlcTdL9W2XfZEZ/oQR9jnj9Lj/aNz6+t/NhfO4yFRQajaiT4svVc1ZR+OoKXwTIm1mzFLtCmgc6zVm7ESbW2IB9X6zaTCY2V2BabjDzT40d5Bjr3VmOfXKtHcvlRTTcVvDNA0dTJh6IdKVLNF7UTJb2XtgipRTbhEFdsul6hi3+ESHZZo4NGIK1FFphE99grTWeDIKaBlL1Xd96np2pnq7vncR4OOvJnByMhUebe5UdfEVHunhVF29OCr/9yWjawulSlxpTNKdUhXuZQZYjpoRLhz0XYdNvDdiqiaDhzfazy0XIcexqokNExHH6xrHZCuJhOSBwIYV6up9KPq+1RtzxYaan/+JwwnRO0hVf4lg6QIbpBJIjxSOf4BsiyiXVL/Mh4AAAAASUVORK5CYII="
+    }
+  ],
+  "imagePath": "Bengal_107.jpg",
+  "imageData": null,
+  "imageHeight": 335,
+  "imageWidth": 500
+}

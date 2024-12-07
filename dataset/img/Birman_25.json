@@ -1,0 +1,28 @@
+{
+  "version": "5.5.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "cat",
+      "points": [
+        [
+          161.0,
+          0.0
+        ],
+        [
+          499.0,
+          332.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "mask",
+      "flags": {},
+      "mask": "iVBORw0KGgoAAAANSUhEUgAAAVMAAAFNCAAAAACY/NNDAAAGQElEQVR4nO2d0ZKdIBAFIbX//8vmIdldvaIMcAZBul9Sldpkse8ZRgWvMcxKNP/k5jiKFF+df58Ku9H+/Hl6AHWMrHRSp2VKe38AUzodOqWTOh2cGZ0OHtMpnRbT+UOY0OnoMZ3Q6fBK53M6vtL5nE7AbE4niOlsTmdQOpnTKZRO5nQOvsL3p9/7LmMFc8Q0xN1AR7dar7TvkX3tBhq7//Z38jmfxnHra9yRfXDuUaMOfdRxnUmsR405Bcyj9OpcargjGG5AN1ytm8axsjqT0vDn2txAxzHQUAzcXUcNcyTDDMTG7Z6JQbrVZEpDzA75Gam7j1OgtO8xxDCQ1M+BbKm/rKG/0+ywOwzpYgibpvAHdOo8Jv/58gGnhqPyGVWv7vOEU8vBacfVt5d3vtdn/sloHVgM4e4oZjszKid+/HlLzqpvo2ngkdq3HvXd4J4Wd8MzTlulDiw0POa07KGDeBzm2EancPqPn4GObvRBpxO4qaWv0zX2TPRNy97pALf1XsEhpxtWFaxR+335cPrWoHadUMmpnk+nBLWdU07fKrUj1L6es9OXBrVj8Sdy+lKp/aD29aSccjnVxjo57Tehpp0S1BbWyWm/oC7ktJvUlZz2YimnnYK6lNNOXDil8TewVk77FP9aTvuAUz2LOe1S/Is57SJ1Nac9pM7yDO9MLJfTDqzn1L8E005fXfruB7deTv1JOn11TP0Pj5zqWdKpc1BTTl9e+u4smVPn1Kzp1Bec6knu7ek+indBTvUs6tS1SSWdUvxNLJpTV9jXp2fVnHpOqKs69ZS6rFNH1nXqF9R1nfpJXdipm9SVnXpJXdqpE2s79Qnq2k59pC7u1EXqgvtQ3Fk9px7xWXEfijfL59ThjVnsmdBDTvUZwqmehFNKvxFyGuQpmucdh55oj5mc6sGpHpyGoN7PgFM9ONWD0xDo++ODUz04DYG+Pz441YNTPTjVs8z3nneEnIbAOb8L0sVTnP5HaBWnP8ik4vQXlVSc7hBJxekejVScHpB0qsT/seJi9IHWqx5yeqY1VDhN0CgVpynaplWcpmmxSo+6obJZkVM97Ou7oVLF+Z/h9EBF/VP7GSoihtMc5VJxmqVYKk714FQPTvXgNE/phIpTPTjNU3raf3LKZVQz5FQPTvPEWFa9OLVQNiHi1MBW1qVwmmcrbP041YNTPTjVc3LKdv5Pio2Q0xzlIcNpBtb4hgCnGSTrpjSpA9S+Htb3hwCnenCaQ7IPhSZ1gHN+PeyXcoD9UgPAe3jzxMKsklM9vDPWQGFQyakFxVo0QW2BnBopiCpO9eDUij2oONWDUyv2vo1TK9T+k+BUD0714FQPTvXg1Iy58eNUD07tWIOKUz041ZPMM8+cXmC75ienJdjChtMiTFJ5B7cecqqH90WXYZFDTvXgtBBDUPmuzlLyfniWRw+1X0z2q6ZxWkFGKs9I1HAvlZxWcSuVved6yGkdd0HFaSU3UtnPX8u1VPaeV3MpldrXg9N6roKK0wYurlIvnDKhNkBOm0gGFad6cKoHp22kih+nenCqB6eNJIofp3pwqgenenDaynlCvXLKBX89lzlFajXUfjOn4sepHpy28xnUa6dMqLWQUz04FfBR/DjVc+OUCbUScqoHpwqOEypO9eBUD0714FQPTiUcmhRO9dw55aS/DnKqYV/8ONWDUz041XPrlCZVBTnVsI8fTvXcOuWrUapgPpVwMEXt68GpgmNB41QPTvXgVEHJGh+NvwZyKqHkPj9BrYCc6sk5JajlZHOK1GLytY9UC4XrUUgtxNKjkFoGfV+PySlBzbObUMmpil+pNqcEtQRyKuMnqDanLPYZ+Clmcqrid360JZCcGtlCIKdiYgg49QCnenCqB6d6uI7SQ0714FRLDDj1AKdiotkpTaoAcqomWp1yE8XMRk4dwKkenKoxz6dQAOtRauhRHuBUD2t8esipHpzqwamcDad6cCon4lQP66Z6yKkenMqh7zvAGp8ecqqGe31yNnLqAU61bMHulCZlh5zqwakenOrBqR6c6sGpFJ6N1FP0bCQr/DYiaycuWPNHTu2QUzHcl3IBp2Lsz0dBATjVg1M93JPWQ071mJ0SVDP2nCLVStE1Jxeo12whfAsq1YTWC3Zl/BeNgH/sEgyTaAAAAABJRU5ErkJggg=="
+    }
+  ],
+  "imagePath": "Birman_25.jpg",
+  "imageData": null,
+  "imageHeight": 333,
+  "imageWidth": 500
+}

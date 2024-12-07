@@ -1,0 +1,28 @@
+{
+  "version": "5.5.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "cat",
+      "points": [
+        [
+          70.0,
+          125.0
+        ],
+        [
+          282.0,
+          460.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "mask",
+      "flags": {},
+      "mask": "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"
+    }
+  ],
+  "imagePath": "Bengal_98.jpg",
+  "imageData": null,
+  "imageHeight": 500,
+  "imageWidth": 333
+}

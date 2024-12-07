@@ -1,0 +1,28 @@
+{
+  "version": "5.5.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "cat",
+      "points": [
+        [
+          58.0,
+          72.0
+        ],
+        [
+          239.0,
+          439.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "mask",
+      "flags": {},
+      "mask": "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"
+    }
+  ],
+  "imagePath": "Abyssinian_78.jpg",
+  "imageData": null,
+  "imageHeight": 450,
+  "imageWidth": 300
+}

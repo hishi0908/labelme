@@ -1,0 +1,28 @@
+{
+  "version": "5.5.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "cat",
+      "points": [
+        [
+          123.0,
+          23.0
+        ],
+        [
+          370.0,
+          323.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "mask",
+      "flags": {},
+      "mask": "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"
+    }
+  ],
+  "imagePath": "Birman_19.jpg",
+  "imageData": null,
+  "imageHeight": 333,
+  "imageWidth": 500
+}

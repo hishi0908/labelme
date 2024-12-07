@@ -1,0 +1,28 @@
+{
+  "version": "5.5.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "cat",
+      "points": [
+        [
+          23.0,
+          61.0
+        ],
+        [
+          219.0,
+          156.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "mask",
+      "flags": {},
+      "mask": "iVBORw0KGgoAAAANSUhEUgAAAMUAAABgCAAAAACIgulxAAACYklEQVR4nN2c3XLEIAiFwen7v7K9yG5WjRBFYziei3a3zggf+J9YJiImIooELP5AEDRHOCF+H/AU3nZgilIK3GSE1HVYjLxFoWIU/QIUg0u/V463ue0By3wNfzyLZhmpWJVks1KhkDUBpMGawUoXxWDWn7PSSdFtwjZcCDZYKuqnkI1UbJpVM8FikYlCtHOxOKBL/awVDdhTEj9DRfWsFs3N/Mx5M6+c1aJBu1l9k+d+re6YF7ledRS+CkXe9xdKiJPFk3eKFEMeFd1TaBhnUfB/atCAEZz3bqIWDP8tihr6BgSFgnGUYFCko2oNA4RCXQsCUYhiQqLQkoFDoQmI4nLo9P07FIUyP0NRiMKiqCeD06cwwMLKxRHyS9x56AzEjcByIWgXCu9bvRbtkosdtA0FfseI2+QCPhnx6BfYGHGj3k3YyYh05gIXIxL9WhQuBhF+vziiD07xaUKh+I6lr9PQuTgj//emF2OqPmNFa1LiM2Skg4Qs6EEs8S3l5YrKd6cq4l2OUREoHz/VYu8/H2WoIeeLS3tBpNjiiVj1vcHyS/TdLYR3OPPfzqW/qYgBIc4CnPx0LmUmw+nd2nSM0qL0JQVILm7WRRgnOXfuQZzk3DqHcHpw75r/vV5LeO8dfxmtqY00+vgWSmM773JvMUt7V+11bB1Iz3Bj8GoFSOeIaXTpSRLTfT2rHgIxzVujvsxmsd4AnaKHroWtNj+pRjcUI7VaF3MPD5t91ZtXpCsG/0Yba+4rD+nWztDOYN2KQrU0uLtZucATbK25wT9RT/2riOUbh6a7kAOVrtJhcuo+/x+G22mS+SPpqgAAAABJRU5ErkJggg=="
+    }
+  ],
+  "imagePath": "Bombay_82.jpg",
+  "imageData": null,
+  "imageHeight": 180,
+  "imageWidth": 240
+}

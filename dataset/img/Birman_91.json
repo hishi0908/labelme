@@ -1,0 +1,28 @@
+{
+  "version": "5.5.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "cat",
+      "points": [
+        [
+          14.0,
+          27.0
+        ],
+        [
+          486.0,
+          257.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "mask",
+      "flags": {},
+      "mask": "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"
+    }
+  ],
+  "imagePath": "Birman_91.jpg",
+  "imageData": null,
+  "imageHeight": 293,
+  "imageWidth": 500
+}

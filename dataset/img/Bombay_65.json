@@ -1,0 +1,28 @@
+{
+  "version": "5.5.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "cat",
+      "points": [
+        [
+          37.0,
+          7.0
+        ],
+        [
+          341.0,
+          268.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "mask",
+      "flags": {},
+      "mask": "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"
+    }
+  ],
+  "imagePath": "Bombay_65.jpg",
+  "imageData": null,
+  "imageHeight": 281,
+  "imageWidth": 387
+}

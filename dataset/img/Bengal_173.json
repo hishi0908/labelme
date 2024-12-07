@@ -1,0 +1,28 @@
+{
+  "version": "5.5.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "cat",
+      "points": [
+        [
+          19.0,
+          17.0
+        ],
+        [
+          292.0,
+          167.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "mask",
+      "flags": {},
+      "mask": "iVBORw0KGgoAAAANSUhEUgAAARIAAACXCAAAAAD8VosgAAAEfklEQVR4nO2d6XLrMAiFIXPf/5V1f7RpHVuSQSwC3DPTNosrxJeDJC9JEGbCrz9tulE1IempRzEZI/l85kFQRkgujz+Hyav/8JXUpMKKaYCko8cw6Sc6SP8ZxdNLfuyHRzBhDhpPYHIGcDdiPIAJTu/2VB7K54xDmVXKzzwfSGjZVmdyRFI9V6IOSMhEiqP7RcJItDYTPP2lqvC8g4ffLNVlQt/tO6lu8bwAFtMry2TZJQBYFMoLCr/eaxK4pCrLlyixkkxELqnJ5CXMqiCTlzSnekyEhQMFmciRlGOigKQaEw0kxZigUj6FdoxVXAKldni0XAIAVayi5RIAqGIV1B4c8zsFf36pKTsU7N6UKjUVHN6RKTEUnNwTKycXUyRv5ULjggRSUfFCApAGC/+SG5EyUPF0yY9ig3F2yVuRodwgaXaQwlKZFk7rPqqnmFRGLmmTjTQVkMolWwS4dvRRTIjJWg670aAQDyFZdjvacSfqUbUHMVE90LiqWEzISEwrPhQTuksewyRE4UAoJpyuGHc7ymTMcYlxn6MYJUrhAIQ5M8ZBYt/jEEwiuQRiGCUYkghQwiHZDyUgkt1QWME9e7pvlRLSJQA7Jx9eZN9+bjIKN0lXKHuYhC0cgF3Fw49a3icrCRaHErpwAHasUVaQRDmwYaTF16DybLxYOJWNsjqWuDLx9aQoml9XPV8B0Yzj11FPn8gm4ZJMhOuSikykS7WCTMSr13pMwi/oD3JiIkdSbtWmQr7W+iRT4YAPfBUkjrXjwETHJaWYJCscD+VDYm4TJSSeM7E1Ey2XFGKSr3DMlRKJ7VH7lEhslRSJpU3+GbYNANCCXJPHkDGS9v2TCYtT4bSmPEsbMvYbS7ShmCnp8GppE08kSWyS1iV2NlFDksQCBOV1iZlNXJHkcJKvS1IwSVw4VvpDclFmJEbja2YkRkqNxMYmqZHYyBbJZdLNcIhADUmWd0XcK3vhGDDxRpJg/aqEZN97NvUDm7rExRLqTHS+rYDRLX1M2kw0vuaD16fwTJLNOP2TH7pMciF5nyk7S5WJAhJuJbTl2mnDeJpMLK97HWe+FvXQ3rUBvSFKC2+vHV0kn60ZMtmDhB+309b143p1ZH0xhYr6yZ4/sRiVoBgikXWwAQA2ZDXC23rYikYj/Ybm/ZsHpuVmM6AoIek006v+42OzyMTMuAMYpbGGnmMJDm4vq3VaWRxR8PeGGZJuxxAamn6SO8DSiILDO+u9uD7UbreYiJrUuFUOFouvJ7ghwo9BTmjS9DJWo90+GRFGnNkKmRT4upGRS9rkOYIEtuc11ftnm+FVSIQZaxoDofdNA9+j/GAOUNB4b2Oxee6cQQhD7ZPWdHhsRePbMNjTKCVOQ+gvZU6RdQrn65rwjedoyJfqE/YjrGtdfLDIPNYlqvWxV0/nCC9Jf/+3w1m6hRDruU3XbrQ9TacTl6wwUmddgt2NqX5Ly5OIoZRK7Ws9ggAN78Ze0e6YWKwFhHbcT7O00UG7fW+n6kcOcLHF5neYfYYPwCOOIr337z/4ca89Er7W4gAAAABJRU5ErkJggg=="
+    }
+  ],
+  "imagePath": "Bengal_173.jpg",
+  "imageData": null,
+  "imageHeight": 182,
+  "imageWidth": 300
+}
